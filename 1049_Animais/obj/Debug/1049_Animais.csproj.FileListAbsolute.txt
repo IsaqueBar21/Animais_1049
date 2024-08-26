@@ -1,0 +1,7 @@
+C:\CURSOS\C#\projetos\1049_Animais\1049_Animais\bin\Debug\1049_Animais.exe.config
+C:\CURSOS\C#\projetos\1049_Animais\1049_Animais\bin\Debug\1049_Animais.exe
+C:\CURSOS\C#\projetos\1049_Animais\1049_Animais\bin\Debug\1049_Animais.pdb
+C:\CURSOS\C#\projetos\1049_Animais\1049_Animais\obj\Debug\1049_Animais.csproj.AssemblyReference.cache
+C:\CURSOS\C#\projetos\1049_Animais\1049_Animais\obj\Debug\1049_Animais.csproj.CoreCompileInputs.cache
+C:\CURSOS\C#\projetos\1049_Animais\1049_Animais\obj\Debug\1049_Animais.exe
+C:\CURSOS\C#\projetos\1049_Animais\1049_Animais\obj\Debug\1049_Animais.pdb
